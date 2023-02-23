@@ -1,0 +1,24 @@
+*{
+    font-family: arial;
+}
+body{
+    background-color: rgb(43, 152, 255);
+}
+header, footer{
+    text-align: center;
+    color: white;
+}
+section{
+    display: block;
+    margin: auto;
+    background-color: antiquewhite;
+    height: auto;
+    width: 400px;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.301);
+}
+#res{
+    height: 200px;
+    width: 100px;
+}

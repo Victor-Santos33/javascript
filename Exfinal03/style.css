@@ -1,0 +1,19 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: antiquewhite;
+}
+h1, footer{
+    text-align: center;
+}
+section{
+    display: block;
+    background-color: white;
+    height: auto;
+    width: 400px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.205);
+    padding: 20px;
+    margin: auto;
+}

@@ -1,0 +1,25 @@
+*{
+    font-family: arial;
+}
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+section{
+    display: block;
+    height: 300px;
+    width: 400px;
+    background-color: white;
+    border-radius: 8px;
+    margin: auto;
+}
+div{
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+}
+footer{
+    text-align: center;
+}

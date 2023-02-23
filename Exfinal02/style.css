@@ -1,0 +1,20 @@
+*{
+    font-family: arial;
+}
+body{
+    background-color: brown;
+    color: aliceblue;
+}
+header, footer{
+    text-align: center;
+}
+section{
+    display: block;
+    margin: auto;
+    background-color: bisque;
+    color: black;
+    height: auto;
+    width: 400px;
+    border-radius: 12px;
+    padding: 20px;
+}
